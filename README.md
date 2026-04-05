@@ -1,1 +1,2 @@
-![JJ GH Top Langs](https://jj-ghtoplangs.alwaysdata.net/toplangs?user=<14muffinz>)
+![Top Languages](https://ghstats.dev/api/langs?username=14muffinz&layout=bar)
+![Top Languages](https://ghstats.dev/api/langs?username=14muffinz&layout=stacked)
