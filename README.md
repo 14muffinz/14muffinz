@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=14muffinz)](https://github.com/anuraghazra/github-readme-stats)
+![JJ GH Top Langs](https://jj-ghtoplangs.alwaysdata.net/toplangs?user=<14muffinz>)
